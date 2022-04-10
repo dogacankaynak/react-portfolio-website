@@ -24,21 +24,26 @@ const About = () => {
               <small>1+ Years Working</small>
               <small></small>
             </article>
-            <article className='about__card'>
+            {/*<article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
               <small>200+ Worldwide</small>
               <small></small>
-            </article>   
+              </article>   */}
             <article className='about__card'>
               <AiOutlineFolderOpen className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>10+ Completed</small>
               <small></small>
             </article>
           </div>
           <p>
-            Buraya cv'deki giriş paragrafını koyabilirsin 
+            Success driven, resilient, creative computer engineer who has developed
+            diversified skills such as; hard cs skills over projects, social entreprenurship
+            skills through marketing & event coordinator role in Radio Bilkent, team
+            player and leadership skills by being 14 years of licensed basketball player.
+            My purpose is to become a part of an organization where I can enhance my software
+            skills while contributing to success of the team. 
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Get in Touch</a>
         </div>

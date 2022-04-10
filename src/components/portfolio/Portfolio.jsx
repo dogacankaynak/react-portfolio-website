@@ -1,45 +1,41 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/python_logo.png'
+import IMG2 from '../../assets/cplusplus_logo.png'
+import IMG3 from '../../assets/java_logo.png'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'feedforward neural network',
-    github: 'https://github.com/dogacankaynak',
+    title: 'Feedforward Neural Network',
+    github: 'https://github.com/dogacankaynak/feedForwardNeuralNetwork',
   },
   {
     id: 1,
     image: IMG1,
-    title: 'feedforward neural network',
-    github: 'https://github.com/dogacankaynak',
+    title: 'AI Personal Trainer',
+    github: 'https://github.com/dogacankaynak/AI-Personal-Trainer',
+  },
+  {
+    id: 1,
+    image: IMG3,
+    title: 'Real Estate(Desktop Application)',
+    github: 'https://github.com/dogacankaynak/REMSYS-Java',
   },
   {
     id: 1,
     image: IMG1,
-    title: 'feedforward neural network',
-    github: 'https://github.com/dogacankaynak',
+    title: 'Tracking Amazon Product',
+    github: 'https://github.com/dogacankaynak/Tracking-Amazon-Product-Python',
   },
   {
     id: 1,
-    image: IMG1,
-    title: 'feedforward neural network',
-    github: 'https://github.com/dogacankaynak',
+    image: IMG2,
+    title: 'Red-Black Tree Implementation',
+    github: 'https://github.com/dogacankaynak/Red-Black-Tree-Cplusplus',
   },
-  {
-    id: 1,
-    image: IMG1,
-    title: 'feedforward neural network',
-    github: 'https://github.com/dogacankaynak',
-  },
-  {
-    id: 1,
-    image: IMG1,
-    title: 'feedforward neural network',
-    github: 'https://github.com/dogacankaynak',
-  }
+  
 ]
   
 
