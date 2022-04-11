@@ -42,36 +42,62 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>ANOVA R&D, Ankara - Artificial Intelligence Engineer (04/2021 - Now)</h4>
-                <small className='text-light'>Made surveilance and service UI for military vehicle using C#</small>
-                <small className='text-light'>Implemented ML algorithm for sensor calibration in TUBITAK project</small>
-                <small className='text-light'>Developed test UI for radar cooling system using C#</small>
+                <ul className='service__list'>
+                  <li>
+                    <small className='text-light'>Made surveilance and service UI for military vehicle using C#</small>
+                  </li>
+                  <li>
+                    <small className='text-light'>Implemented ML algorithm for sensor calibration in TUBITAK project</small>
+                  </li>
+                </ul>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>METEKSAN DEFENCE, Ankara - Internship (08-09/2019)</h4>
-                <small className='text-light'>Learned C# and developed HTML skills</small>
-                <small className='text-light'>Developed 3 applications to share data through intranet using IIS server</small>
+                <ul className='service__list'>
+                  <li>
+                    <small className='text-light'>Learned C# and developed HTML skills</small>
+                  </li>
+                  <li>
+                    <small className='text-light'>Developed 3 applications to share data through intranet using IIS server</small>
+                  </li>
+                </ul>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>NETAS, Istanbul - Internship (08-09/2018)</h4>
-                <small className='text-light'>Learned SOQL for Salesforce and developed HTML skills</small>
-                <small className='text-light'>Became Apex Specialist</small>
-                <small className='text-light'>Be more familiar with CRM programs & cloud systems</small>
+                <ul className='service__list'>
+                  <li>
+                    <small className='text-light'>Learned SOQL for Salesforce and developed HTML skills</small>
+                  </li>
+                  <li>
+                    <small className='text-light'>Became Apex Specialist</small>
+                  </li>
+                  <li>
+                    <small className='text-light'>Be more familiar with CRM programs & cloud systems</small>
+                  </li>
+                </ul>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Radio Bilkent, Ankara - Voluntary Work Event & Marketing (2016-2019)</h4>
-                <small className='text-light'>Achieved sponsorhip record(5 times higher than previous one)</small>
-                <small className='text-light'>Worked as head of Promotion team on my last year</small>
-                <small className='text-light'>Worked as sponsorship manager of Kısa Paslar for a year(more than 130K subscriber on YouTube)</small>
-                <small className='text-light'>Participated in organizing events & festivals</small>
+                <ul className='service__list'>
+                  <li>
+                    <small className='text-light'>Achieved sponsorhip record(5 times higher than previous one)</small>
+                  </li>
+                  <li>
+                    <small className='text-light'>Worked as sponsorship manager of Kısa Paslar for a year(more than 220K subscriber on YouTube)</small>
+                  </li>
+                  <li>
+                    <small className='text-light'>Participated in organizing events & festivals</small>
+                  </li>
+                </ul>
               </div>
             </article>
             <article className='experience__details'>

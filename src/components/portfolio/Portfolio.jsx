@@ -8,32 +8,32 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Feedforward Neural Network',
-    github: 'https://github.com/dogacankaynak/feedForwardNeuralNetwork',
-  },
-  {
-    id: 1,
-    image: IMG1,
     title: 'AI Personal Trainer',
     github: 'https://github.com/dogacankaynak/AI-Personal-Trainer',
   },
   {
-    id: 1,
-    image: IMG3,
-    title: 'Real Estate(Desktop Application)',
-    github: 'https://github.com/dogacankaynak/REMSYS-Java',
+    id: 2,
+    image: IMG1,
+    title: 'Feedforward Neural Network',
+    github: 'https://github.com/dogacankaynak/feedForwardNeuralNetwork',
   },
   {
-    id: 1,
+    id: 3,
     image: IMG1,
     title: 'Tracking Amazon Product',
     github: 'https://github.com/dogacankaynak/Tracking-Amazon-Product-Python',
   },
   {
-    id: 1,
+    id: 4,
     image: IMG2,
     title: 'Red-Black Tree Implementation',
     github: 'https://github.com/dogacankaynak/Red-Black-Tree-Cplusplus',
+  },
+  {
+    id: 5,
+    image: IMG3,
+    title: 'Real Estate(Desktop Application)',
+    github: 'https://github.com/dogacankaynak/REMSYS-Java',
   },
   
 ]

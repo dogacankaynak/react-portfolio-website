@@ -39,6 +39,11 @@
     color: var(--color-primary);
 }
 
+.experience__list li {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 0.8rem;
+}
 /* ================= MEDIA QUERIES (MEDIUM DEVICES E.G TABLETS)  ================*/
 
 @media screen and (max-width: 1024px) {

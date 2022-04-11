@@ -41,9 +41,9 @@ const About = () => {
             Success driven, resilient, creative computer engineer who has developed
             diversified skills such as; hard cs skills over projects, social entreprenurship
             skills through marketing & event coordinator role in Radio Bilkent, team
-            player and leadership skills by being 14 years of licensed basketball player.
-            My purpose is to become a part of an organization where I can enhance my software
-            skills while contributing to success of the team. 
+            player and leadership skills by being 14 years of licensed point guard of various basketball teams.
+            My purpose is to become a part of an organization where I can contribute to success of 
+            the team while enhancing my software skills. 
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Get in Touch</a>
         </div>
