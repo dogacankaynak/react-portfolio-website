@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me2.png'
+import ME from '../../assets/basket.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {AiOutlineFolderOpen} from 'react-icons/ai'
@@ -22,7 +22,6 @@ const About = () => {
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
               <small>1+ Years Working</small>
-              <small></small>
             </article>
             {/*<article className='about__card'>
               <FiUsers className='about__icon'/>
@@ -34,7 +33,6 @@ const About = () => {
               <AiOutlineFolderOpen className='about__icon'/>
               <h5>Projects</h5>
               <small>10+ Completed</small>
-              <small></small>
             </article>
           </div>
           <p>
