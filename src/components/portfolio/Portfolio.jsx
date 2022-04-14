@@ -32,7 +32,7 @@ const data = [
   {
     id: 5,
     image: IMG3,
-    title: 'Real Estate(Desktop Application)',
+    title: 'Real Estate Commerce App(Desktop Application)',
     github: 'https://github.com/dogacankaynak/REMSYS-Java',
   },
   
