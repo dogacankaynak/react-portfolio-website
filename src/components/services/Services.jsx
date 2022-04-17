@@ -108,15 +108,15 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Turkish</p>
+              <p>Turkish - Native</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>English</p>
+              <p>English - Advanced</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>German</p>
+              <p>German - Basic</p>
             </li>
           </ul>
         </article>
