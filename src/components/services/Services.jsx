@@ -103,6 +103,25 @@ const Services = () => {
         </article>
         <article className="service">
           <div className="service__head">
+            <h3>Languages</h3>
+          </div>
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>Turkish</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>English</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
+              <p>German</p>
+            </li>
+          </ul>
+        </article>
+        <article className="service">
+          <div className="service__head">
             <h3>Interest & Hobbies</h3>
           </div>
           <ul className='service__list'>
@@ -131,20 +150,16 @@ const Services = () => {
         {/*END OF CART*/ }
         <article className="service">
           <div className="service__head">
-            <h3>Languages</h3>
+            <h3>Voluntary Work</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Turkish</p>
+              <p>Member of TABID(Technology R&D Science Innovation Association)</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>English</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>German</p>
+              <p>Chairman of the Community Service Committee in Bahcelievler Rotaract</p>
             </li>
           </ul>
         </article>
