@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-pages/static/css/main.167f804b.css",
+    "main.js": "/react-pages/static/js/main.e3536921.js",
+    "static/media/DogacanKaynakCV.pdf": "/react-pages/static/media/DogacanKaynakCV.32477500d80e11228542.pdf",
+    "static/media/basket.jpg": "/react-pages/static/media/basket.46f8cf8179ff76f29861.jpg",
+    "static/media/cool.jpg": "/react-pages/static/media/cool.21776b2247e67f28eaa7.jpg",
+    "static/media/pngegg.png": "/react-pages/static/media/pngegg.badd65006108c2727c22.png",
+    "static/media/kamerrodoplu.jpg": "/react-pages/static/media/kamerrodoplu.618da301ea149ef61aae.jpg",
+    "static/media/pngegg_java.png": "/react-pages/static/media/pngegg_java.74f6e663ab00a4cd32e2.png",
+    "static/media/bg-texture.png": "/react-pages/static/media/bg-texture.d391b40bebe20d4fa2b6.png",
+    "static/media/pngegg_cplusplus.png": "/react-pages/static/media/pngegg_cplusplus.706fbbfd6d2588ede20e.png",
+    "static/media/meteksanSavunma.jpg": "/react-pages/static/media/meteksanSavunma.017b9bafd9ca294b6684.jpg",
+    "index.html": "/react-pages/index.html",
+    "main.167f804b.css.map": "/react-pages/static/css/main.167f804b.css.map",
+    "main.e3536921.js.map": "/react-pages/static/js/main.e3536921.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.167f804b.css",
+    "static/js/main.e3536921.js"
+  ]
+}
